@@ -1,5 +1,5 @@
 ## Transcribed Lyrics
-A transcription project for songs whose lyrics aren't readily available online. The reason I'm not posting them to any lyrics service is they are incomplete and possibly incorrect.
+Lyrics transcription project for songs without readily available lyrics. The reason I'm not posting them to any lyrics service is they are incomplete and possibly incorrect.
 
 ### Contributing
 Read [here](CONTRIBUTING.md) for the guidelines.
