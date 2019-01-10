@@ -19,6 +19,7 @@ apple`/`banana | One or the other
 #### Tags
 Lyrics for:
 * Conquest - The Harvest
+* Far From Reality - Reminiscence
 * ...
 
 #### Legal
