@@ -1,6 +1,9 @@
 ## Transcribed Lyrics
 Lyrics transcription project for songs without readily available lyrics. The reason I'm not posting them to any lyrics service is they are incomplete and possibly incorrect.
 
+### Navigation test
+[Navigation page](Bands/Navigation)
+
 ### Contributing
 Read [here](CONTRIBUTING.md) for the guidelines.
 
