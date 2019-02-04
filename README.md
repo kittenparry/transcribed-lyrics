@@ -1,9 +1,9 @@
-## Transcribed Lyrics
+# Transcribed Lyrics
 Lyrics transcription project for songs without readily available lyrics. The reason I'm not posting them to any lyrics service is they are incomplete and possibly incorrect.
 
 ## Online Viewing
 Visit this repo on [GitHub Pages](https://kittenparry.github.io/transcribed-lyrics/).    
-[Navigate here](https://kittenparry.github.io/transcribed-lyrics/Bands/Navigation).
+Navigation [here](https://kittenparry.github.io/transcribed-lyrics/Bands/Navigation).
 
 ### Contributing
 Read [here](CONTRIBUTING.md) for the guidelines.
