@@ -23,22 +23,22 @@ for file in files:
   for i in range(len(file)):
     # file[i] = file[i].rstrip('.md')
     file[i] = file[i].replace('.md', '')
-#non-numbered song names
-n_songs = [f for f in files]
-for file in n_songs:
-  for i in range(len(file)):
-    file[i] = file[i][4:]
-
-paths = []
 #this also assumes one album per band
 #get paths for md file
+paths = []
 for i in range(len(n_bands)):
   paths.append([])
   paths[i] = [f for f in files[i]]
   for x in range(len(paths[i])):
     paths[i][x] = f'{n_bands[i]}/{n_albums[i]}/{paths[i][x]}'
     paths[i][x] = paths[i][x].replace(' ', '%20')
+#non-numbered song names
+n_songs = [f for f in files]
+for file in n_songs:
+  for i in range(len(file)):
+    file[i] = file[i][4:]
 
+#navigation.md creation
 temp = ''
 temp += '# Navigation\n'
 temp += '## Contents\n'
