@@ -3,7 +3,7 @@ Lyrics transcription project for songs without readily available lyrics. The rea
 
 ## Online Viewing
 Visit this repo on [GitHub Pages](https://kittenparry.github.io/transcribed-lyrics/).    
-Use [this page](https://kittenparry.github.io/transcribed-lyrics/Bands/Navigation) for navigation.
+[Navigate here](https://kittenparry.github.io/transcribed-lyrics/Bands/Navigation).
 
 ### Contributing
 Read [here](CONTRIBUTING.md) for the guidelines.
