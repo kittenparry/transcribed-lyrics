@@ -5,6 +5,8 @@ Lyrics transcription project for songs without readily available lyrics. The rea
 Visit this repo on [GitHub Pages](https://kittenparry.github.io/transcribed-lyrics/).    
 Navigation [here](https://kittenparry.github.io/transcribed-lyrics/Bands/Navigation).
 
+Navigation page is generated using [this script](Extras/navigation_generator.py). Python is unrelated to the project and is only used for this purpose.
+
 ### Contributing
 Read [here](CONTRIBUTING.md) for the guidelines.
 
