@@ -2,6 +2,7 @@
 ## Contents
 1. [Conquest - The Harvest](#conquest---the-harvest)
 2. [Far From Reality - Reminiscence](#far-from-reality---reminiscence)
+
 ---
 ### Conquest - The Harvest
 1. [Primitive](Conquest/The%20Harvest/01.%20Primitive)

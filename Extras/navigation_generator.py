@@ -45,7 +45,7 @@ temp += '## Contents\n'
 for i in range(len(n_bands)):
   p = f'{n_bands[i]} - {n_albums[i]}'
   temp += f'{i+1}. [{p}](#{p.lower().replace(" ", "-")})\n'
-temp += '---\n'
+temp += '\n---\n'
 #this also assumes one album per band
 for i in range(len(n_bands)):
   temp += f'### {n_bands[i]} - {n_albums[i]}\n'
