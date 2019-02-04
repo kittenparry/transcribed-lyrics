@@ -4,6 +4,7 @@
 2. [Far From Reality - Reminiscence](#far-from-reality---reminiscence)
 
 ---
+
 ### Conquest - The Harvest
 1. [Primitive](Conquest/The%20Harvest/01.%20Primitive)
 2. [Red Horizon](Conquest/The%20Harvest/02.%20Red%20Horizon)
@@ -16,6 +17,7 @@
 9. [Drifting in the Dark](Conquest/The%20Harvest/09.%20Drifting%20in%20the%20Dark)
 10. [Armageddon](Conquest/The%20Harvest/10.%20Armageddon)
 11. [Night in the Cold World](Conquest/The%20Harvest/11.%20Night%20in%20the%20Cold%20World)
+
 ### Far From Reality - Reminiscence
 1. [Falter](Far%20From%20Reality/Reminiscence/01.%20Falter)
 2. [Waiting](Far%20From%20Reality/Reminiscence/02.%20Waiting)
@@ -25,3 +27,4 @@
 6. [Abyss](Far%20From%20Reality/Reminiscence/06.%20Abyss)
 7. [Agony](Far%20From%20Reality/Reminiscence/07.%20Agony)
 8. [Summer Sunrise Melancholy](Far%20From%20Reality/Reminiscence/08.%20Summer%20Sunrise%20Melancholy)
+
